@@ -1,0 +1,114 @@
+body{
+    background:url("netflix-background.jpg");
+    color: white;
+}
+
+
+
+.box{
+    display: inline;
+    
+}
+
+#line-1{
+    font-size: 75px;
+    text-align: center;
+    margin: 150px 500px 0px 400px;
+    font-weight: bolder;
+    
+}
+#line-2{
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    
+}
+
+.box button{
+    float: right;
+    margin: 9px 20px;
+    background-color: red;
+    border: none;
+    padding: 7px 14px;
+}
+
+
+.box button a{ 
+    text-decoration: none;
+    color: white;
+    padding: 4px 10px;
+    font-weight: bolder;
+   
+}
+.email{
+    margin-left: 500px;
+    display: inline;
+    margin-right: 0px;
+    
+}
+#email{
+    width: 400px;
+    height: 40px;
+    margin-bottom: 500px;
+}
+
+#e-btn{
+    margin-left: 0px;
+    background-color: red;
+    text-decoration: none;
+    color:white;
+    padding: 4px 20px;
+    border:none;
+    font-weight: bold;
+    height: 44px;
+
+    
+}
+#sec-one{
+    border-style: groove;
+    border-color: gray;
+    display: flex;
+    font-weight: bolder;
+    font-size: 25px;
+    box-sizing: border-box;
+    box-decoration-break: slice;
+    background-color: black;
+    margin: 15px -8px 0px -8px;
+    padding-left: 100px;
+    text-align: center;
+}
+#sec-two{
+    border-style: groove;
+    border-color: gray;
+    display: flex;
+    font-weight: bolder;
+    font-size: 25px;
+    box-sizing: border-box;
+    box-decoration-break: slice;
+    background-color: black;
+    margin: 0px -8px;
+    padding-left: 100px;
+    text-align: center;
+
+}
+#sec-three{
+    border-style: groove;
+    border-color: gray;
+    display: flex;
+    font-weight: bolder;
+    font-size: 25px;
+    box-sizing: border-box;
+    box-decoration-break: slice;
+    background-color: black;
+    margin: 0px -8px;
+    padding-left: 100px;
+    text-align: left;
+
+}
+#footer{
+    border-color: gray;
+    box-sizing: border-box;
+    background-color:black ;
+    margin: 0px -8px ;
+    padding: 25px;
+}
